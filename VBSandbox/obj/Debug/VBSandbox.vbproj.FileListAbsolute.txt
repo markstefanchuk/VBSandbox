@@ -1,0 +1,9 @@
+M:\Git\VBSandbox\VBSandbox\bin\Debug\VBSandbox.exe.config
+M:\Git\VBSandbox\VBSandbox\bin\Debug\VBSandbox.exe
+M:\Git\VBSandbox\VBSandbox\bin\Debug\VBSandbox.pdb
+M:\Git\VBSandbox\VBSandbox\bin\Debug\VBSandbox.xml
+M:\Git\VBSandbox\VBSandbox\obj\Debug\VBSandbox.Resources.resources
+M:\Git\VBSandbox\VBSandbox\obj\Debug\VBSandbox.vbproj.GenerateResource.Cache
+M:\Git\VBSandbox\VBSandbox\obj\Debug\VBSandbox.exe
+M:\Git\VBSandbox\VBSandbox\obj\Debug\VBSandbox.xml
+M:\Git\VBSandbox\VBSandbox\obj\Debug\VBSandbox.pdb
